@@ -8,4 +8,4 @@ Note that you cannot run the game just by compiling it. If you do so, the game w
 ## Contributing
 You can contribute to the game by opening issues / pull requests.
 
-Copyright (c) 2018-2021 Eolien55, Timinou
+Copyright (c) 2019-2021 Eolien55, Timinou
